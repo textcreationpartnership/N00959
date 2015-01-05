@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:001152_0000_0FB093A28D375CA0"/>
-            <pb facs="tcp:001152_0001_0FB093A3A5291790" rendition="simple:additions"/>
+            <pb facs="unknown:001152_0000_0FB093A28D375CA0"/>
+            <pb facs="unknown:001152_0001_0FB093A3A5291790"
+                rendition="simple:additions"/>
             <head>A BOMB thrown amongst the Quakers in Norwich, which will Reach their Friends in Bristol, and set fire no the Combustible Matter thorow their whole Camp in England, Wales and America.</head>
             <opener>
                <salute>Mr. Pitt,</salute>
@@ -200,7 +201,7 @@
             </closer>
          </div>
          <div type="appendix">
-            <pb n="2" facs="tcp:001152_0002_0FB093A5D9477F20"/>
+            <pb n="2" facs="unknown:001152_0002_0FB093A5D9477F20"/>
             <head>A CAUTIONARY APPENDIX.</head>
             <p>Having known by self-Experience, as well as by what mine eyes have been touching the Danger of Hearing the Quakers speakers, who gild over their poisonous Doctrine by many seeming Fair and Orthodox Pretences<g ref="char:punc">▪</g> 
                <hi>I</hi> cannot but advice all to be<g ref="char:EOLhyphen"/>ware of their Leaven, knowing that what they de<g ref="char:EOLhyphen"/>clare touching the Faith of Christ Crucified, they mean not a word of what they say, and my advice shall be bottomed on Two Heads.</p>
